@@ -1,5 +1,5 @@
 # TDD MONEY
-Este projeto é um sistema simples para manipulação de valores monetários, implementado em TypeScript usando os princípios de Test Driven Development (TDD).
+Este projeto é um sistema simples para manipulação de valores monetários, implementado em TypeScript usando os princípios de Test Driven Development (TDD). 
 
 ## Estrutura do Projeto
 O projeto é composto pelos seguintes arquivos principais:
